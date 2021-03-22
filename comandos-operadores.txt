@@ -1,0 +1,36 @@
+-- comandos DML (Data Manipulation Language):
+SELECT 
+INSERT 
+UPDATE
+DELETE 
+MERGE 
+
+-- Comandos DDL (Data Definition Language):
+CREATE 
+ALTER
+DROP
+RENAME
+TRUNCATE
+COMMENT 
+
+-- comandos DCL (Data Control Language):
+GRANT
+REVOKE 
+
+-- comandos TCL (Transaction Control Language):
+COMMIT 
+ROLLBACK 
+SAVEPOINT 
+
+-- operadores que podem ser usados na claúsula WHERE
+= -- igual
+> -- maior que
+>= -- maior ou igual
+< -- menor que
+<= -- menor ou igual
+<> -- diferente
+
+BETWEEN ... AND .. -- entre dois valores (inclusive).
+IN (set) -- corresponde a qualquer uma lista de valores
+LIKE -- corresponde a um caracter padrão
+IS NULL -- um valor nulo
